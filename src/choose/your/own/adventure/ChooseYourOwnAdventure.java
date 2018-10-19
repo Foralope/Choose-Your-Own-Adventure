@@ -50,7 +50,7 @@ public class ChooseYourOwnAdventure {
                     thingForALoop = thingForALoop + 1;
                 }
             } else {
-                System.out.println("You get the puck before taking off on a spectacular breakaway and embarass the goalie before you score. Your team is elated. You win!");
+                System.out.println("You get the puck before taking off on a spectacular breakaway and embarrass the goalie before you score. Your team is elated. You win!");
                 System.out.print("CONGRATS!!!");
             }
         }
